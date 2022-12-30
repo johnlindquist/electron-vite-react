@@ -32,5 +32,9 @@
   },
   "engines": {
     "node": "^14.18.0 || >=16.0.0"
+  },
+  "dependencies": {
+    "electron-unhandled": "^4.0.1",
+    "execa": "^6.1.0"
   }
 }
